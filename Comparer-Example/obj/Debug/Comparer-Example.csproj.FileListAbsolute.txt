@@ -1,0 +1,7 @@
+C:\Users\ilyas.m\Desktop\classes\examples\Comparer-Example\Comparer-Example\bin\Debug\Comparer-Example.exe.config
+C:\Users\ilyas.m\Desktop\classes\examples\Comparer-Example\Comparer-Example\bin\Debug\Comparer-Example.exe
+C:\Users\ilyas.m\Desktop\classes\examples\Comparer-Example\Comparer-Example\bin\Debug\Comparer-Example.pdb
+C:\Users\ilyas.m\Desktop\classes\examples\Comparer-Example\Comparer-Example\obj\Debug\Comparer-Example.csprojAssemblyReference.cache
+C:\Users\ilyas.m\Desktop\classes\examples\Comparer-Example\Comparer-Example\obj\Debug\Comparer-Example.csproj.CoreCompileInputs.cache
+C:\Users\ilyas.m\Desktop\classes\examples\Comparer-Example\Comparer-Example\obj\Debug\Comparer-Example.exe
+C:\Users\ilyas.m\Desktop\classes\examples\Comparer-Example\Comparer-Example\obj\Debug\Comparer-Example.pdb
