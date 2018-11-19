@@ -1,0 +1,7 @@
+C:\Users\ilyas.m\Desktop\classes\examples\Enumerator-Example\Enumerator-Example\bin\Debug\Enumerator-Example.exe.config
+C:\Users\ilyas.m\Desktop\classes\examples\Enumerator-Example\Enumerator-Example\bin\Debug\Enumerator-Example.exe
+C:\Users\ilyas.m\Desktop\classes\examples\Enumerator-Example\Enumerator-Example\bin\Debug\Enumerator-Example.pdb
+C:\Users\ilyas.m\Desktop\classes\examples\Enumerator-Example\Enumerator-Example\obj\Debug\Enumerator-Example.csprojAssemblyReference.cache
+C:\Users\ilyas.m\Desktop\classes\examples\Enumerator-Example\Enumerator-Example\obj\Debug\Enumerator-Example.csproj.CoreCompileInputs.cache
+C:\Users\ilyas.m\Desktop\classes\examples\Enumerator-Example\Enumerator-Example\obj\Debug\Enumerator-Example.exe
+C:\Users\ilyas.m\Desktop\classes\examples\Enumerator-Example\Enumerator-Example\obj\Debug\Enumerator-Example.pdb
