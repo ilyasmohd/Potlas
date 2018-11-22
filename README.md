@@ -6,3 +6,5 @@ To Delete a Branch from remote machine:
 $ git push --delete <remote_name> <branch_name>   ///for remote branch
 $ git branch -d <branch_name>                     ///for local branch
 
+example:
+git push --delete https://github.com/ilyasmohd/Potlas.git Icomparer-Example
