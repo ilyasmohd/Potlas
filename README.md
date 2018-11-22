@@ -13,3 +13,8 @@ add new files in branch:
 git add .
 git commit -m "Add existing file"
 git push origin your-branch
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
