@@ -1,0 +1,10 @@
+C:\Users\ilyas.m\Desktop\classes\examples\Winforms-SqlConnection\Winforms-SqlConnection\bin\Debug\Winforms-SqlConnection.exe.config
+C:\Users\ilyas.m\Desktop\classes\examples\Winforms-SqlConnection\Winforms-SqlConnection\bin\Debug\Winforms-SqlConnection.exe
+C:\Users\ilyas.m\Desktop\classes\examples\Winforms-SqlConnection\Winforms-SqlConnection\bin\Debug\Winforms-SqlConnection.pdb
+C:\Users\ilyas.m\Desktop\classes\examples\Winforms-SqlConnection\Winforms-SqlConnection\obj\Debug\Winforms-SqlConnection.csprojAssemblyReference.cache
+C:\Users\ilyas.m\Desktop\classes\examples\Winforms-SqlConnection\Winforms-SqlConnection\obj\Debug\Winforms_SqlConnection.Form1.resources
+C:\Users\ilyas.m\Desktop\classes\examples\Winforms-SqlConnection\Winforms-SqlConnection\obj\Debug\Winforms_SqlConnection.Properties.Resources.resources
+C:\Users\ilyas.m\Desktop\classes\examples\Winforms-SqlConnection\Winforms-SqlConnection\obj\Debug\Winforms-SqlConnection.csproj.GenerateResource.cache
+C:\Users\ilyas.m\Desktop\classes\examples\Winforms-SqlConnection\Winforms-SqlConnection\obj\Debug\Winforms-SqlConnection.csproj.CoreCompileInputs.cache
+C:\Users\ilyas.m\Desktop\classes\examples\Winforms-SqlConnection\Winforms-SqlConnection\obj\Debug\Winforms-SqlConnection.exe
+C:\Users\ilyas.m\Desktop\classes\examples\Winforms-SqlConnection\Winforms-SqlConnection\obj\Debug\Winforms-SqlConnection.pdb
