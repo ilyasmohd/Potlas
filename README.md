@@ -17,4 +17,7 @@ git push origin your-branch
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 
+git commit --allow-empty -m "Trigger rebuild"
+git push
+
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
