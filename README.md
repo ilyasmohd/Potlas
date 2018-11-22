@@ -8,3 +8,8 @@ $ git branch -d <branch_name>                     ///for local branch
 
 example:
 git push --delete https://github.com/ilyasmohd/Potlas.git Icomparer-Example
+
+add new files in branch:
+git add .
+git commit -m "Add existing file"
+git push origin your-branch
