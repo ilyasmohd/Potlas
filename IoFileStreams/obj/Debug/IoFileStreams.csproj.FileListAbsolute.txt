@@ -1,0 +1,7 @@
+C:\Users\ilyas.m\Desktop\classes\examples\IoFileStreams\IoFileStreams\obj\Debug\IoFileStreams.csprojAssemblyReference.cache
+C:\Users\ilyas.m\Desktop\classes\examples\IoFileStreams\IoFileStreams\obj\Debug\IoFileStreams.csproj.CoreCompileInputs.cache
+C:\Users\ilyas.m\Desktop\classes\examples\IoFileStreams\IoFileStreams\bin\Debug\IoFileStreams.exe.config
+C:\Users\ilyas.m\Desktop\classes\examples\IoFileStreams\IoFileStreams\bin\Debug\IoFileStreams.exe
+C:\Users\ilyas.m\Desktop\classes\examples\IoFileStreams\IoFileStreams\bin\Debug\IoFileStreams.pdb
+C:\Users\ilyas.m\Desktop\classes\examples\IoFileStreams\IoFileStreams\obj\Debug\IoFileStreams.exe
+C:\Users\ilyas.m\Desktop\classes\examples\IoFileStreams\IoFileStreams\obj\Debug\IoFileStreams.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoFileStreams", "IoFileStreams\IoFileStreams.csproj", "{23FD3365-0864-4EA0-AEB1-BF99D4F505FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FD3365-0864-4EA0-AEB1-BF99D4F505FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FD3365-0864-4EA0-AEB1-BF99D4F505FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FD3365-0864-4EA0-AEB1-BF99D4F505FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FD3365-0864-4EA0-AEB1-BF99D4F505FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24ACCEA0-E076-42F8-B418-C4E8849F7D86}
+	EndGlobalSection
+EndGlobal
