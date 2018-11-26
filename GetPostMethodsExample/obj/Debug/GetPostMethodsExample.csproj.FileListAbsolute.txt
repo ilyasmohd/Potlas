@@ -1,0 +1,7 @@
+C:\Users\ilyas.m\Desktop\classes\examples\Empty-Website\GetPostMethodsExample\bin\Empty-Website.dll.config
+C:\Users\ilyas.m\Desktop\classes\examples\Empty-Website\GetPostMethodsExample\bin\Empty-Website.dll
+C:\Users\ilyas.m\Desktop\classes\examples\Empty-Website\GetPostMethodsExample\bin\Empty-Website.pdb
+C:\Users\ilyas.m\Desktop\classes\examples\Empty-Website\GetPostMethodsExample\obj\Debug\GetPostMethodsExample.csprojAssemblyReference.cache
+C:\Users\ilyas.m\Desktop\classes\examples\Empty-Website\GetPostMethodsExample\obj\Debug\GetPostMethodsExample.csproj.CoreCompileInputs.cache
+C:\Users\ilyas.m\Desktop\classes\examples\Empty-Website\GetPostMethodsExample\obj\Debug\Empty-Website.dll
+C:\Users\ilyas.m\Desktop\classes\examples\Empty-Website\GetPostMethodsExample\obj\Debug\Empty-Website.pdb
