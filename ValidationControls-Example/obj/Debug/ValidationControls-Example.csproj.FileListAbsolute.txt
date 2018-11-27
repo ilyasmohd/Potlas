@@ -1,0 +1,7 @@
+C:\Users\ilyas.m\Desktop\classes\examples\ValidationControls-Example\ValidationControls-Example\bin\ValidationControls-Example.dll.config
+C:\Users\ilyas.m\Desktop\classes\examples\ValidationControls-Example\ValidationControls-Example\bin\ValidationControls-Example.dll
+C:\Users\ilyas.m\Desktop\classes\examples\ValidationControls-Example\ValidationControls-Example\bin\ValidationControls-Example.pdb
+C:\Users\ilyas.m\Desktop\classes\examples\ValidationControls-Example\ValidationControls-Example\obj\Debug\ValidationControls-Example.csprojAssemblyReference.cache
+C:\Users\ilyas.m\Desktop\classes\examples\ValidationControls-Example\ValidationControls-Example\obj\Debug\ValidationControls-Example.csproj.CoreCompileInputs.cache
+C:\Users\ilyas.m\Desktop\classes\examples\ValidationControls-Example\ValidationControls-Example\obj\Debug\ValidationControls-Example.dll
+C:\Users\ilyas.m\Desktop\classes\examples\ValidationControls-Example\ValidationControls-Example\obj\Debug\ValidationControls-Example.pdb
