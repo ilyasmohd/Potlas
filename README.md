@@ -20,4 +20,8 @@ git config --global user.name "Your Name"
 git commit --allow-empty -m "Trigger rebuild"
 git push
 
+to override your local changes and get latest from branch.
+git fetch origin
+git reset --hard origin/HEAD
+
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
