@@ -23,5 +23,10 @@ git push
 to override your local changes and get latest from branch.
 git fetch origin
 git reset --hard origin/HEAD
+or
+git checkout master
+git branch new-branch-to-save-current-commits
+git fetch --all
+git reset --hard origin/master
 
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
