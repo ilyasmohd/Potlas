@@ -1,0 +1,6 @@
+C:\Users\ilyas.m\Desktop\classes\examples\Exceptional-Handling\Exceptional-Handling\bin\Debug\Exceptional-Handling.exe
+C:\Users\ilyas.m\Desktop\classes\examples\Exceptional-Handling\Exceptional-Handling\bin\Debug\Exceptional-Handling.pdb
+C:\Users\ilyas.m\Desktop\classes\examples\Exceptional-Handling\Exceptional-Handling\obj\Debug\Exceptional-Handling.csprojAssemblyReference.cache
+C:\Users\ilyas.m\Desktop\classes\examples\Exceptional-Handling\Exceptional-Handling\obj\Debug\Exceptional-Handling.csproj.CoreCompileInputs.cache
+C:\Users\ilyas.m\Desktop\classes\examples\Exceptional-Handling\Exceptional-Handling\obj\Debug\Exceptional-Handling.exe
+C:\Users\ilyas.m\Desktop\classes\examples\Exceptional-Handling\Exceptional-Handling\obj\Debug\Exceptional-Handling.pdb
