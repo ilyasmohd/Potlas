@@ -1,0 +1,7 @@
+C:\Users\ilyas.m\Desktop\classes\examples\MasterPage-Example\MasterPage-Example\bin\MasterPage-Example.dll.config
+C:\Users\ilyas.m\Desktop\classes\examples\MasterPage-Example\MasterPage-Example\bin\MasterPage-Example.dll
+C:\Users\ilyas.m\Desktop\classes\examples\MasterPage-Example\MasterPage-Example\bin\MasterPage-Example.pdb
+C:\Users\ilyas.m\Desktop\classes\examples\MasterPage-Example\MasterPage-Example\obj\Debug\MasterPage-Example.csprojAssemblyReference.cache
+C:\Users\ilyas.m\Desktop\classes\examples\MasterPage-Example\MasterPage-Example\obj\Debug\MasterPage-Example.csproj.CoreCompileInputs.cache
+C:\Users\ilyas.m\Desktop\classes\examples\MasterPage-Example\MasterPage-Example\obj\Debug\MasterPage-Example.dll
+C:\Users\ilyas.m\Desktop\classes\examples\MasterPage-Example\MasterPage-Example\obj\Debug\MasterPage-Example.pdb
