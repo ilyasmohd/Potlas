@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Themes-Skins-CSS-Example", "Themes-Skins-CSS-Example\Themes-Skins-CSS-Example.csproj", "{F90AF77F-9C28-422E-A7B1-A43CD0BA73EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90AF77F-9C28-422E-A7B1-A43CD0BA73EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90AF77F-9C28-422E-A7B1-A43CD0BA73EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90AF77F-9C28-422E-A7B1-A43CD0BA73EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90AF77F-9C28-422E-A7B1-A43CD0BA73EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28A8C49F-EC42-48EC-BD1A-53EB4966E916}
+	EndGlobalSection
+EndGlobal
