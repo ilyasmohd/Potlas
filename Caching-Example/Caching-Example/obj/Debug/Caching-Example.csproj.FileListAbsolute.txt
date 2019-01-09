@@ -1,0 +1,6 @@
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Caching-Example\Caching-Example\bin\Caching-Example.dll.config
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Caching-Example\Caching-Example\bin\Caching-Example.dll
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Caching-Example\Caching-Example\bin\Caching-Example.pdb
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Caching-Example\Caching-Example\obj\Debug\Caching-Example.csproj.CoreCompileInputs.cache
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Caching-Example\Caching-Example\obj\Debug\Caching-Example.dll
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Caching-Example\Caching-Example\obj\Debug\Caching-Example.pdb
