@@ -1,0 +1,7 @@
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Globalisation-Localisation\Globalisation-Localisation\bin\Globalisation-Localisation.dll.config
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Globalisation-Localisation\Globalisation-Localisation\bin\Globalisation-Localisation.dll
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Globalisation-Localisation\Globalisation-Localisation\bin\Globalisation-Localisation.pdb
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Globalisation-Localisation\Globalisation-Localisation\obj\Debug\Globalisation-Localisation.csprojAssemblyReference.cache
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Globalisation-Localisation\Globalisation-Localisation\obj\Debug\Globalisation-Localisation.csproj.CoreCompileInputs.cache
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Globalisation-Localisation\Globalisation-Localisation\obj\Debug\Globalisation-Localisation.dll
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Globalisation-Localisation\Globalisation-Localisation\obj\Debug\Globalisation-Localisation.pdb
