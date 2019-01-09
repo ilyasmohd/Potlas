@@ -1,0 +1,7 @@
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Tracing-Example\Tracing-Example\bin\Tracing-Example.dll.config
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Tracing-Example\Tracing-Example\bin\Tracing-Example.dll
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Tracing-Example\Tracing-Example\bin\Tracing-Example.pdb
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Tracing-Example\Tracing-Example\obj\Debug\Tracing-Example.csprojAssemblyReference.cache
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Tracing-Example\Tracing-Example\obj\Debug\Tracing-Example.csproj.CoreCompileInputs.cache
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Tracing-Example\Tracing-Example\obj\Debug\Tracing-Example.dll
+C:\Users\ilyas.m\Desktop\classes\CadGraphix\Tracing-Example\Tracing-Example\obj\Debug\Tracing-Example.pdb
